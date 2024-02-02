@@ -1,2 +1,2 @@
 # Awesome-Multiple-Instance-Learning
-Paperlist of Multiple Instance Learning for Whole Slide Image (WSI) Analysis
+Paperlist of Multiple Instance Learning (MIL) for Whole Slide Image (WSI) Analysis
